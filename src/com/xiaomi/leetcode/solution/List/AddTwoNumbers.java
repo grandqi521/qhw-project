@@ -1,4 +1,4 @@
-package com.xiaomi.leetcode.solution;
+package com.xiaomi.leetcode.solution.List;
 
 import com.xiaomi.leetcode.utils.ListNode;
 
